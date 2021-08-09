@@ -1,0 +1,5 @@
+{
+    "trips": [
+        {"from": "New York", "to": "Boston"}
+    ]
+}
