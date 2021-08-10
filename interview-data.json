@@ -1,5 +1,220 @@
 {
     "trips": [
-        {"from": "New York", "to": "Boston"}
+        { 
+            "id": "42677f7a-bc6e-4990-aaaa-e462ba769263",
+            "start": "2021-06-21T08:50:33+03:00",
+            "end": "2021-06-21T09:04:13+03:00",
+            "location": {
+                "start": {
+                    "city": "Brașov",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  },
+                  "end": {
+                    "city": "Ghimbav",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  }
+            },
+            "image": "https://autoliv.github.io/img/yosemite-1.jpg"
+        },
+        {
+            "id": "42677f7a-bc6e-4990-bbbb-e462ba769263",
+            "start": "2020-06-21T17:50:10+03:00",
+            "end": "2020-06-21T18:14:00+03:00",
+            "location": {
+                "start": {
+                    "city": "Ghimbav",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  },
+                  "end": {
+                    "city": "Brașov",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  }
+            },
+            "image": "https://autoliv.github.io/img/yosemite-1.jpg"
+        },
+        { 
+            "id": "42677f7a-bc6e-4990-cccc-e462ba769263",
+            "start": "2021-06-22T08:20:11+03:00",
+            "end": "2021-06-22T08:44:00+03:00",
+            "location": {
+                "start": {
+                    "city": "Brașov",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  },
+                  "end": {
+                    "city": "Ghimbav",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  }
+            },
+            "image": "https://autoliv.github.io/img/yosemite-2.jpg"
+        },
+        {
+            "id": "42677f7a-bc6e-4990-dddd-e462ba769263",
+            "start": "2020-06-22T17:40:13+03:00",
+            "end": "2020-06-22T18:04:07+03:00",
+            "location": {
+                "start": {
+                    "city": "Ghimbav",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  },
+                  "end": {
+                    "city": "Brașov",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  }
+            },
+            "image": "https://autoliv.github.io/img/yosemite-2.jpg"
+        },
+        { 
+            "id": "42677f7a-bc6e-4990-eeee-e462ba769263",
+            "start": "2021-06-23T08:15:10+03:00",
+            "end": "2021-06-23T08:40:35+03:00",
+            "location": {
+                "start": {
+                    "city": "Brașov",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  },
+                  "end": {
+                    "city": "Ghimbav",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  }
+            },
+            "image": "https://autoliv.github.io/img/yosemite-3.jpg"
+        },
+        {
+            "id": "42677f7a-bc6e-4990-ffff-e462ba769263",
+            "start": "2020-06-23T16:30:18+03:00",
+            "end": "2020-06-23T17:00:00+03:00",
+            "location": {
+                "start": {
+                    "city": "Ghimbav",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  },
+                  "end": {
+                    "city": "Brașov",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  }
+            },
+            "image": "https://autoliv.github.io/img/yosemite-3.jpg"
+        },
+        { 
+            "id": "42677f7a-bc6e-4990-gggg-e462ba769263",
+            "start": "2021-06-24T09:20:04+03:00",
+            "end": "2021-06-24T09:51:10+03:00",
+            "location": {
+                "start": {
+                    "city": "Brașov",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  },
+                  "end": {
+                    "city": "Ghimbav",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  }
+            },
+            "image": "https://autoliv.github.io/img/yellowstone-1.jpg"
+        },
+        {
+            "id": "42677f7a-bc6e-4990-hhhh-e462ba769263",
+            "start": "2020-06-24T17:23:54+03:00",
+            "end": "2020-06-24T18:12:04+03:00",
+            "location": {
+                "start": {
+                    "city": "Ghimbav",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  },
+                  "end": {
+                    "city": "Brașov",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  }
+            },
+            "image": "https://autoliv.github.io/img/yellowstone-1.jpg"
+        },
+        { 
+            "id": "42677f7a-bc6e-4990-iiii-e462ba769263",
+            "start": "2021-06-25T09:02:13+03:00",
+            "end": "2021-06-25T09:17:45+03:00",
+            "location": {
+                "start": {
+                    "city": "Brașov",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  },
+                  "end": {
+                    "city": "Ghimbav",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  }
+            },
+            "image": "https://autoliv.github.io/img/yellowstone-2.jpg"
+        },
+        {
+            "id": "42677f7a-bc6e-4990-jjjj-e462ba769263",
+            "start": "2020-06-25T17:14:06+03:00",
+            "end": "2020-06-25T18:34:34+03:00",
+            "location": {
+                "start": {
+                    "city": "Ghimbav",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  },
+                  "end": {
+                    "city": "Brașov",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  }
+            },
+            "image": "https://autoliv.github.io/img/yellowstone-2.jpg"
+        },
+        { 
+            "id": "42677f7a-bc6e-4990-kkkk-e462ba769263",
+            "start": "2021-06-26T09:35:03+03:00",
+            "end": "2021-06-26T11:27:31+03:00",
+            "location": {
+                "start": {
+                    "city": "Brașov",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  },
+                  "end": {
+                    "city": "București",
+                    "county": "București",
+                    "country": "ROU"
+                  }
+            },
+            "image": "https://autoliv.github.io/img/grand-teton-1.jpg"
+        },
+        {
+            "id": "42677f7a-bc6e-4990-llll-e462ba769263",
+            "start": "2020-06-26T21:01:36+03:00",
+            "end": "2020-06-26T23:44:09+03:00",
+            "location": {
+                "start": {
+                    "city": "București",
+                    "county": "București",
+                    "country": "ROU"
+                  },
+                  "end": {
+                    "city": "Brașov",
+                    "county": "Brașov",
+                    "country": "ROU"
+                  }
+            },
+            "image": "https://autoliv.github.io/img/grand-teton-1.jpg"
+        }
     ]
 }
